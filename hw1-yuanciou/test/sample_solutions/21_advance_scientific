@@ -1,0 +1,81 @@
+<scientific: 678E0>
+1: 678E0
+<oct_integer: 07>
+<scientific: 8E+0>
+2: 078E+0
+<oct_integer: 00>
+<scientific: 8E-0>
+3: 008E-0
+4: 
+<scientific: 678.678E0>
+5: 678.678E0
+<oct_integer: 07>
+<scientific: 8.678E1>
+6: 078.678E1
+<oct_integer: 00>
+<scientific: 8.678E10>
+7: 008.678E10
+<scientific: 670.678E+1>
+8: 670.678E+1
+<scientific: 600.678E-1>
+9: 600.678E-1
+<scientific: 678.078e1>
+10: 678.078e1
+<scientific: 678.008e10>
+11: 678.008e10
+<float: 678.67>
+<integer: 0>
+<id: e>
+<+>
+<integer: 1>
+12: 678.670e+1
+<float: 678.6>
+<oct_integer: 00>
+<id: e>
+<->
+<integer: 1>
+13: 678.600e-1
+14: 
+<scientific: 123E+0>
+15: 123E+0
+<oct_integer: 023>
+<id: E>
+<->
+<integer: 0>
+16: 023E-0
+17: 
+<scientific: 123e-0>
+<oct_integer: 01>
+18: 123e-001
+<scientific: 123e-0>
+<integer: 10>
+19: 123e-010
+<scientific: 123e-100>
+20: 123e-100
+<scientific: 123.0e-0>
+<oct_integer: 01>
+21: 123.0e-001
+<scientific: 123.0e-0>
+<integer: 10>
+22: 123.0e-010
+<scientific: 123.0e-100>
+23: 123.0e-100
+24: 
+<scientific: 123e-0>
+<integer: 0>
+<integer: 8>
+25: 123e-008
+<scientific: 123e-0>
+<integer: 80>
+26: 123e-080
+<scientific: 123e-800>
+27: 123e-800
+<scientific: 123.0e-0>
+<integer: 0>
+<integer: 8>
+28: 123.0e-008
+<scientific: 123.0e-0>
+<integer: 80>
+29: 123.0e-080
+<scientific: 123.0e-800>
+30: 123.0e-800

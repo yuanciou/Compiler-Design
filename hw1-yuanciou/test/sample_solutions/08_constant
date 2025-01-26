@@ -1,0 +1,20 @@
+<oct_integer: 01234567>
+<integer: 89>
+1: 0123456789
+<oct_integer: 001>
+2: 001
+<oct_integer: 010>
+3: 010
+<integer: 100>
+4: 100
+<oct_integer: 00>
+<integer: 8>
+5: 008
+<integer: 0>
+<integer: 80>
+6: 080
+<integer: 800>
+7: 800
+8: 
+<float: 123.456>
+9: 123.456

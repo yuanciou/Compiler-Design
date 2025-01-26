@@ -1,0 +1,12 @@
+<scientific: 1.24E4>
+<scientific: 123e-4>
+1: 1.24E4  123e-4
+<->
+<scientific: 1.24E4>
+<->
+<scientific: 123e-4>
+2: -1.24E4  -123e-4
+<string: begin>
+<string: end>
+3: "begin" "end"
+4: 

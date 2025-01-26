@@ -1,0 +1,26 @@
+1: //* C++-style comment 1
+2: //* C++-style comment 2 */
+<id: show1>
+3: show1
+4: 
+5: /* one line in // multi line */
+<id: show2>
+6: show2
+7: 
+8: /* a /* can be in multi line */
+<id: show3>
+9: show3
+10: 
+11: /*/ the whole line is a multi line */
+<id: show4>
+12: show4
+13: 
+14: /* one line in // multi
+15: // line
+16: */
+<id: show5>
+17: show5
+18: 
+19: // multi line /* in one line */
+<id: show6>
+20: show6

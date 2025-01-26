@@ -1,0 +1,16 @@
+1: //&T- // less output
+2: 
+3: //&S+ pseudocomment is a comment
+4: show1
+5: 
+6: //$S- comment
+7: show2
+8: 
+9: //&s-
+10: show3
+11: 
+12: // &S-
+13: show4
+14: 
+18: //&S+//&S-
+19: show5

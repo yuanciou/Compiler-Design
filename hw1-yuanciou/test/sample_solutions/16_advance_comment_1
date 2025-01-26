@@ -1,0 +1,28 @@
+<id: show1>
+1:   show1
+<id: show2>
+2: 	show2
+3: 
+<id: show3>
+4: /* C-style comment */ show3
+5: 
+6: /*
+7: C-style
+8: comment 1
+9: */
+<id: show4>
+10: show4
+11: 
+12: /* C-style comment 2
+13: */
+<id: show5>
+14: show5
+15: 
+16: /*
+17: C-style comment 3 */
+<id: show6>
+18: show6
+19: 
+20: // C++-style comment
+<id: show7>
+21: show7

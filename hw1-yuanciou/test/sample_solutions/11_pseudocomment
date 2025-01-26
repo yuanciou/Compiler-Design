@@ -1,0 +1,24 @@
+<KWbegin>
+1: begin
+<KWvar>
+<id: a>
+<:>
+<KWinteger>
+<;>
+4:     //&S+
+<KWvar>
+<id: b>
+<:>
+<KWinteger>
+<;>
+5:     var b: integer;
+6:     //&T-
+7:     a := 1;
+8:     //&T+
+<id: b>
+<:=>
+<integer: 2>
+<;>
+9:     b := 2;
+<KWend>
+10: end

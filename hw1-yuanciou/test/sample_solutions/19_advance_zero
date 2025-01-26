@@ -1,0 +1,16 @@
+<integer: 0>
+1: 0
+<oct_integer: 00>
+2: 00
+<float: 0.0>
+3: 0.0
+<float: 0.0>
+<integer: 0>
+4: 0.00
+<float: 0.0>
+<id: e1>
+5: 0.0e1
+<float: 0.0>
+<integer: 0>
+<id: e1>
+6: 0.00e1

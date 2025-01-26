@@ -1,0 +1,36 @@
+<float: 678.678>
+1: 678.678
+2: 
+<oct_integer: 07>
+<float: 8.678>
+3: 078.678
+<oct_integer: 00>
+<float: 8.678>
+4: 008.678
+<float: 670.678>
+5: 670.678
+<float: 600.678>
+6: 600.678
+7: 
+<float: 678.078>
+8: 678.078
+<float: 678.008>
+9: 678.008
+<float: 678.67>
+<integer: 0>
+10: 678.670
+<float: 678.6>
+<oct_integer: 00>
+11: 678.600
+12: 
+<float: 0.678>
+<oct_integer: 00>
+13: 0.67800
+<float: 67800.0>
+14: 67800.0
+<oct_integer: 00>
+<float: 8.6>
+<oct_integer: 00>
+15: 008.600
+<oct_integer: 006>
+Error at line 16: bad character "."
