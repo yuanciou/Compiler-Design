@@ -1,0 +1,35 @@
+1: /**
+2:  * function2.p: function 2
+3:  */
+4: //&T-
+5: function2;
+6: 
+7: // function declaration
+8: sum(a, b: integer): integer;
+9: product(a, b: integer): integer;
+10: 
+11: // function definition
+12: dot(x1, y1, x2, y2: integer): integer
+13: begin
+14: 	var result: integer;
+15: 	result := sum(product(x1, y1), product(x2, y2));
+16: 	return result;
+17: end
+18: end
+19: 
+20: // the following functions are not used; only for increasing the test coverage
+21: multipleFormalDeclarations(a, b: integer; c: real; d, e: string);
+22: formalOfArrayType(a: array 2 of integer; c, d: integer): string;
+23: 
+24: begin
+25:         var a : integer;
+26:         var b : integer;
+27: 
+28:         a := 1;
+29:         b := dot(a, a);
+30: end
+31: end
+
+|--------------------------------|
+|  There is no syntactic error!  |
+|--------------------------------|
